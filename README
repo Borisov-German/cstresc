@@ -1,0 +1,12 @@
+cstresc - C/C++ string esaper/unescaper
+using: cstresc [-u] [input [output]]
+  -u --unescape - unescape from C/C++ surces
+  input - input file name (stdin, if not specified)
+  output - output file name (stdout, if not specified)
+
+Convert text file to correct C/C++ character sequences for using in C/C++ surces as char[] const
+If passed -u it will convert C/C++ character sequences to text file
+
+GNU GPL v3
+
+1LineSoft, German Borisov, 2012

@@ -1,0 +1,13 @@
+*.ncb
+*.suo
+*.obj
+*.user
+*.manifest
+*.dll
+*.pch
+*.exp
+*.lib
+*.dep
+*.idb
+Debug
+Release
